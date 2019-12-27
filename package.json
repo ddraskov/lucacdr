@@ -23,7 +23,7 @@
     "bluebird": "^3.4.0",
     "body-parser": "^1.13.3",
     "bookshelf": "^0.9.5",
-    "bootstrap": "^3.1.1",
+    "bootstrap": "^3.4.1",
     "bootstrap-daterangepicker": "^2.1.30",
     "bootstrap-select": "^1.12.4",
     "brfs": "^1.4.0",
