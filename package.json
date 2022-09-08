@@ -31,7 +31,7 @@
     "cookie-parser": "^1.3.0",
     "cookie-session": "^1.2.0",
     "ejs": "^2.5.1",
-    "excel4node": "^1.2.1",
+    "excel4node": "^1.8.0",
     "express": "^4.13.0",
     "express-session": "^1.11.0",
     "font-awesome": "^4.7.0",
